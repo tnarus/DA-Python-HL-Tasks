@@ -1,0 +1,379 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2580
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Monaco;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue255;\red0\green0\blue0;\red255\green255\blue255;
+\red182\green0\blue12;\red130\green130\blue130;\red174\green174\blue174;\red190\green0\blue4;\red67\green69\blue65;
+\red109\green109\blue109;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c100000;\cssrgb\c0\c0\c0;\cssrgb\c100000\c100000\c100000;
+\cssrgb\c77255\c2353\c4314;\cssrgb\c58039\c58039\c58039;\cssrgb\c73725\c73725\c73725;\cssrgb\c80000\c0\c0;\cssrgb\c33333\c34118\c32549;
+\cssrgb\c50196\c50196\c50196;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trcbpat4 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrr\brdrnil \trpadl120 \tapadb160 
+\clvertalt \clshdrawnil \clwWidth11040\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 > install.packages("ggplot2")\
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf5 \strokec5 Installing package into \'91/cloud/lib/x86_64-pc-linux-gnu-library/4.1\'92\
+(as \'91lib\'92 is unspecified)\
+also installing the dependencies \'91colorspace\'92, \'91cli\'92, \'91crayon\'92, \'91utf8\'92, \'91farver\'92, \'91labeling\'92, \'91lifecycle\'92, \'91munsell\'92, \'91R6\'92, \'91RColorBrewer\'92, \'91viridisLite\'92, \'91ellipsis\'92, \'91fansi\'92, \'91magrittr\'92, \'91pillar\'92, \'91pkgconfig\'92, \'91vctrs\'92, \'91digest\'92, \'91glue\'92, \'91gtable\'92, \'91isoband\'92, \'91rlang\'92, \'91scales\'92, \'91tibble\'92, \'91withr\'92\
+\
+trying URL 'http://package-proxy/focal/src/contrib/colorspace_2.0-2.tar.gz'\
+Content type 'application/x-tar' length 2622658 bytes (2.5 MB)\
+==================================================\
+downloaded 2.5 MB\
+\
+trying URL 'http://package-proxy/focal/src/contrib/cli_3.0.1.tar.gz'\
+Content type 'application/x-tar' length 728181 bytes (711 KB)\
+==================================================\
+downloaded 711 KB\
+\
+trying URL 'http://package-proxy/focal/src/contrib/crayon_1.4.1.tar.gz'\
+Content type 'application/x-tar' length 138238 bytes (134 KB)\
+==================================================\
+downloaded 134 KB\
+\
+trying URL 'http://package-proxy/focal/src/contrib/utf8_1.2.2.tar.gz'\
+Content type 'application/x-tar' length 237211 bytes (231 KB)\
+==================================================\
+downloaded 231 KB\
+\
+trying URL 'http://package-proxy/focal/src/contrib/farver_2.1.0.tar.gz'\
+Content type 'application/x-tar' length 2618489 bytes (2.5 MB)\
+==================================================\
+downloaded 2.5 MB\
+\
+trying URL 'http://package-proxy/focal/src/contrib/labeling_0.4.2.tar.gz'\
+Content type 'application/x-tar' length 60947 bytes (59 KB)\
+==================================================\
+downloaded 59 KB\
+\
+trying URL 'http://package-proxy/focal/src/contrib/lifecycle_1.0.1.tar.gz'\
+Content type 'application/x-tar' length 108366 bytes (105 KB)\
+==================================================\
+downloaded 105 KB\
+\
+trying URL 'http://package-proxy/focal/src/contrib/munsell_0.5.0.tar.gz'\
+Content type 'application/x-tar' length 241475 bytes (235 KB)\
+==================================================\
+downloaded 235 KB\
+\
+trying URL 'http://package-proxy/focal/src/contrib/R6_2.5.1.tar.gz'\
+Content type 'application/x-tar' length 82462 bytes (80 KB)\
+==================================================\
+downloaded 80 KB\
+\
+trying URL 'http://package-proxy/focal/src/contrib/RColorBrewer_1.1-2.tar.gz'\
+Content type 'application/x-tar' length 52948 bytes (51 KB)\
+==================================================\
+downloaded 51 KB\
+\
+trying URL 'http://package-proxy/focal/src/contrib/viridisLite_0.4.0.tar.gz'\
+Content type 'application/x-tar' length 1296702 bytes (1.2 MB)\
+==================================================\
+downloaded 1.2 MB\
+\
+trying URL 'http://package-proxy/focal/src/contrib/ellipsis_0.3.2.tar.gz'\
+Content type 'application/x-tar' length 40714 bytes (39 KB)\
+==================================================\
+downloaded 39 KB\
+\
+trying URL 'http://package-proxy/focal/src/contrib/fansi_0.5.0.tar.gz'\
+Content type 'application/x-tar' length 282458 bytes (275 KB)\
+==================================================\
+downloaded 275 KB\
+\
+trying URL 'http://package-proxy/focal/src/contrib/magrittr_2.0.1.tar.gz'\
+Content type 'application/x-tar' length 225306 bytes (220 KB)\
+==================================================\
+downloaded 220 KB\
+\
+trying URL 'http://package-proxy/focal/src/contrib/pillar_1.6.3.tar.gz'\
+Content type 'application/x-tar' length 1067139 bytes (1.0 MB)\
+==================================================\
+downloaded 1.0 MB\
+\
+trying URL 'http://package-proxy/focal/src/contrib/pkgconfig_2.0.3.tar.gz'\
+Content type 'application/x-tar' length 19095 bytes (18 KB)\
+==================================================\
+downloaded 18 KB\
+\
+trying URL 'http://package-proxy/focal/src/contrib/vctrs_0.3.8.tar.gz'\
+Content type 'application/x-tar' length 1628449 bytes (1.6 MB)\
+==================================================\
+downloaded 1.6 MB\
+\
+trying URL 'http://package-proxy/focal/src/contrib/digest_0.6.28.tar.gz'\
+Content type 'application/x-tar' length 358157 bytes (349 KB)\
+==================================================\
+downloaded 349 KB\
+\
+trying URL 'http://package-proxy/focal/src/contrib/glue_1.4.2.tar.gz'\
+Content type 'application/x-tar' length 145100 bytes (141 KB)\
+==================================================\
+downloaded 141 KB\
+\
+trying URL 'http://package-proxy/focal/src/contrib/gtable_0.3.0.tar.gz'\
+Content type 'application/x-tar' length 431359 bytes (421 KB)\
+==================================================\
+downloaded 421 KB\
+\
+trying URL 'http://package-proxy/focal/src/contrib/isoband_0.2.5.tar.gz'\
+Content type 'application/x-tar' length 4295207 bytes (4.1 MB)\
+==================================================\
+downloaded 4.1 MB\
+\
+trying URL 'http://package-proxy/focal/src/contrib/rlang_0.4.11.tar.gz'\
+Content type 'application/x-tar' length 1409309 bytes (1.3 MB)\
+==================================================\
+downloaded 1.3 MB\
+\
+trying URL 'http://package-proxy/focal/src/contrib/scales_1.1.1.tar.gz'\
+Content type 'application/x-tar' length 555861 bytes (542 KB)\
+==================================================\
+downloaded 542 KB\
+\
+trying URL 'http://package-proxy/focal/src/contrib/tibble_3.1.5.tar.gz'\
+Content type 'application/x-tar' length 857550 bytes (837 KB)\
+==================================================\
+downloaded 837 KB\
+\
+trying URL 'http://package-proxy/focal/src/contrib/withr_2.4.2.tar.gz'\
+Content type 'application/x-tar' length 210582 bytes (205 KB)\
+==================================================\
+downloaded 205 KB\
+\
+trying URL 'http://package-proxy/focal/src/contrib/ggplot2_3.3.5.tar.gz'\
+Content type 'application/x-tar' length 4135547 bytes (3.9 MB)\
+==================================================\
+downloaded 3.9 MB\
+\
+* installing *binary* package \'91colorspace\'92 ...\
+* DONE (colorspace)\
+* installing *binary* package \'91crayon\'92 ...\
+* DONE (crayon)\
+* installing *binary* package \'91utf8\'92 ...\
+* DONE (utf8)\
+* installing *binary* package \'91farver\'92 ...\
+* DONE (farver)\
+* installing *binary* package \'91labeling\'92 ...\
+* DONE (labeling)\
+* installing *binary* package \'91R6\'92 ...\
+* DONE (R6)\
+* installing *binary* package \'91RColorBrewer\'92 ...\
+* DONE (RColorBrewer)\
+* installing *binary* package \'91viridisLite\'92 ...\
+* DONE (viridisLite)\
+* installing *binary* package \'91fansi\'92 ...\
+* DONE (fansi)\
+* installing *binary* package \'91magrittr\'92 ...\
+* DONE (magrittr)\
+* installing *binary* package \'91pkgconfig\'92 ...\
+* DONE (pkgconfig)\
+* installing *binary* package \'91digest\'92 ...\
+* DONE (digest)\
+* installing *binary* package \'91glue\'92 ...\
+* DONE (glue)\
+* installing *binary* package \'91gtable\'92 ...\
+* DONE (gtable)\
+* installing *binary* package \'91isoband\'92 ...\
+* DONE (isoband)\
+* installing *binary* package \'91rlang\'92 ...\
+* DONE (rlang)\
+* installing *binary* package \'91withr\'92 ...\
+* DONE (withr)\
+* installing *binary* package \'91cli\'92 ...\
+* DONE (cli)\
+* installing *binary* package \'91lifecycle\'92 ...\
+* DONE (lifecycle)\
+* installing *binary* package \'91munsell\'92 ...\
+* DONE (munsell)\
+* installing *binary* package \'91ellipsis\'92 ...\
+* DONE (ellipsis)\
+* installing *binary* package \'91vctrs\'92 ...\
+* DONE (vctrs)\
+* installing *binary* package \'91scales\'92 ...\
+* DONE (scales)\
+* installing *binary* package \'91pillar\'92 ...\
+* DONE (pillar)\
+* installing *binary* package \'91tibble\'92 ...\
+* DONE (tibble)\
+* installing *binary* package \'91ggplot2\'92 ...\
+* DONE (ggplot2)\
+\
+The downloaded source packages are in\
+	\'91/tmp/RtmpHgXWRM/downloaded_packages\'92\
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf2 \strokec2 > library(ggplot2)\
+> data(package = "ggplot2")\
+> seals\
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf6 \strokec6 # A tibble: 1,155 \'d7 4\cf3 \strokec3 \
+     lat  long delta_long delta_lat\
+   \cf6 \strokec6 <dbl>\cf3 \strokec3  \cf6 \strokec6 <dbl>\cf3 \strokec3       \cf6 \strokec6 <dbl>\cf3 \strokec3      \cf6 \strokec6 <dbl>\cf3 \strokec3 \
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf7 \strokec7  1\cf3 \strokec3   29.7 -\cf8 \strokec8 173.\cf3 \strokec3      -\cf8 \strokec8 0.915\cf3 \strokec3    0.143  \
+\cf7 \strokec7  2\cf3 \strokec3   30.7 -\cf8 \strokec8 173.\cf3 \strokec3      -\cf8 \strokec8 0.867\cf3 \strokec3    0.128  \
+\cf7 \strokec7  3\cf3 \strokec3   31.7 -\cf8 \strokec8 173.\cf3 \strokec3      -\cf8 \strokec8 0.819\cf3 \strokec3    0.113  \
+\cf7 \strokec7  4\cf3 \strokec3   32.7 -\cf8 \strokec8 173.\cf3 \strokec3      -\cf8 \strokec8 0.771\cf3 \strokec3    0.098\ul 0\ulnone  \
+\cf7 \strokec7  5\cf3 \strokec3   33.7 -\cf8 \strokec8 173.\cf3 \strokec3      -\cf8 \strokec8 0.723\cf3 \strokec3    0.082\ul 8\ulnone  \
+\cf7 \strokec7  6\cf3 \strokec3   34.7 -\cf8 \strokec8 173.\cf3 \strokec3      -\cf8 \strokec8 0.674\cf3 \strokec3    0.067\ul 5\ulnone  \
+\cf7 \strokec7  7\cf3 \strokec3   35.7 -\cf8 \strokec8 173.\cf3 \strokec3      -\cf8 \strokec8 0.626\cf3 \strokec3    0.052\ul 2\ulnone  \
+\cf7 \strokec7  8\cf3 \strokec3   36.7 -\cf8 \strokec8 173.\cf3 \strokec3      -\cf8 \strokec8 0.577\cf3 \strokec3    0.036\ul 9\ulnone  \
+\cf7 \strokec7  9\cf3 \strokec3   37.7 -\cf8 \strokec8 173.\cf3 \strokec3      -\cf8 \strokec8 0.529\cf3 \strokec3    0.021\ul 6\ulnone  \
+\cf7 \strokec7 10\cf3 \strokec3   38.7 -\cf8 \strokec8 173.\cf3 \strokec3      -\cf8 \strokec8 0.480\cf3 \strokec3    0.006\ul 35\ulnone \
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf6 \strokec6 # \'85 with 1,145 more rows\cf3 \strokec3 \
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf2 \strokec2 > txhousing\
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf6 \strokec6 # A tibble: 8,602 \'d7 9\cf3 \strokec3 \
+   city     year month sales   volume median listings inventory  date\
+   \cf6 \strokec6 <chr>\cf3 \strokec3    \cf6 \strokec6 <int>\cf3 \strokec3  \cf6 \strokec6 <int>\cf3 \strokec3  \cf6 \strokec6 <dbl>\cf3 \strokec3     \cf6 \strokec6 <dbl>\cf3 \strokec3   \cf6 \strokec6 <dbl>\cf3 \strokec3     \cf6 \strokec6 <dbl>\cf3 \strokec3      \cf6 \strokec6 <dbl>\cf3 \strokec3  \cf6 \strokec6 <dbl>\cf3 \strokec3 \
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf7 \strokec7  1\cf3 \strokec3  Abilene  \ul 2\ulnone 000     1    72  5\ul 380\ulnone 000  \ul 71\ulnone 400      701       6.3 \ul 2\ulnone 000 \
+\cf7 \strokec7  2\cf3 \strokec3  Abilene  \ul 2\ulnone 000     2    98  6\ul 505\ulnone 000  \ul 58\ulnone 700      746       6.6 \ul 2\ulnone 000.\
+\cf7 \strokec7  3\cf3 \strokec3  Abilene  \ul 2\ulnone 000     3   130  9\ul 285\ulnone 000  \ul 58\ulnone 100      784       6.8 \ul 2\ulnone 000.\
+\cf7 \strokec7  4\cf3 \strokec3  Abilene  \ul 2\ulnone 000     4    98  9\ul 730\ulnone 000  \ul 68\ulnone 600      785       6.9 \ul 2\ulnone 000.\
+\cf7 \strokec7  5\cf3 \strokec3  Abilene  \ul 2\ulnone 000     5   141 10\ul 590\ulnone 000  \ul 67\ulnone 300      794       6.8 \ul 2\ulnone 000.\
+\cf7 \strokec7  6\cf3 \strokec3  Abilene  \ul 2\ulnone 000     6   156 13\ul 910\ulnone 000  \ul 66\ulnone 900      780       6.6 \ul 2\ulnone 000.\
+\cf7 \strokec7  7\cf3 \strokec3  Abilene  \ul 2\ulnone 000     7   152 12\ul 635\ulnone 000  \ul 73\ulnone 500      742       6.2 \ul 2\ulnone 000.\
+\cf7 \strokec7  8\cf3 \strokec3  Abilene  \ul 2\ulnone 000     8   131 10\ul 710\ulnone 000  \ul 75\ulnone 000      765       6.4 \ul 2\ulnone 001.\
+\cf7 \strokec7  9\cf3 \strokec3  Abilene  \ul 2\ulnone 000     9   104  7\ul 615\ulnone 000  \ul 64\ulnone 500      771       6.5 \ul 2\ulnone 001.\
+\cf7 \strokec7 10\cf3 \strokec3  Abilene  \ul 2\ulnone 000    10   101  7\ul 040\ulnone 000  \ul 59\ulnone 300      764       6.6 \ul 2\ulnone 001.\
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf6 \strokec6 # \'85 with 8,592 more rows\cf3 \strokec3 \
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf2 \strokec2 > midwest\
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf6 \strokec6 # A tibble: 437 \'d7 28\cf3 \strokec3 \
+     PID county    state  area poptotal popdensity popwhite popblack\
+   \cf6 \strokec6 <int>\cf3 \strokec3  \cf6 \strokec6 <chr>\cf3 \strokec3      \cf6 \strokec6 <chr>\cf3 \strokec3  \cf6 \strokec6 <dbl>\cf3 \strokec3     \cf6 \strokec6 <int>\cf3 \strokec3       \cf6 \strokec6 <dbl>\cf3 \strokec3     \cf6 \strokec6 <int>\cf3 \strokec3     \cf6 \strokec6 <int>\cf3 \strokec3 \
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf7 \strokec7  1\cf3 \strokec3    561 ADAMS     IL    0.052    \ul 66\ulnone 090      \ul 1\ulnone 271.    \ul 63\ulnone 917     \ul 1\ulnone 702\
+\cf7 \strokec7  2\cf3 \strokec3    562 ALEXANDER IL    0.014    \ul 10\ulnone 626       759      \ul 7\ulnone 054     \ul 3\ulnone 496\
+\cf7 \strokec7  3\cf3 \strokec3    563 BOND      IL    0.022    \ul 14\ulnone 991       681.    \ul 14\ulnone 477      429\
+\cf7 \strokec7  4\cf3 \strokec3    564 BOONE     IL    0.017    \ul 30\ulnone 806      \ul 1\ulnone 812.    \ul 29\ulnone 344      127\
+\cf7 \strokec7  5\cf3 \strokec3    565 BROWN     IL    0.018     \ul 5\ulnone 836       324.     \ul 5\ulnone 264      547\
+\cf7 \strokec7  6\cf3 \strokec3    566 BUREAU    IL    0.05     \ul 35\ulnone 688       714.    \ul 35\ulnone 157       50\
+\cf7 \strokec7  7\cf3 \strokec3    567 CALHOUN   IL    0.017     \ul 5\ulnone 322       313.     \ul 5\ulnone 298        1\
+\cf7 \strokec7  8\cf3 \strokec3    568 CARROLL   IL    0.027    \ul 16\ulnone 805       622.    \ul 16\ulnone 519      111\
+\cf7 \strokec7  9\cf3 \strokec3    569 CASS      IL    0.024    \ul 13\ulnone 437       560.    \ul 13\ulnone 384       16\
+\cf7 \strokec7 10\cf3 \strokec3    570 CHAMPAIGN IL    0.058   \ul 173\ulnone 025      \ul 2\ulnone 983.   \ul 146\ulnone 506    \ul 16\ulnone 559\
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf6 \strokec6 # \'85 with 427 more rows, and 20 more variables: popamerindian <int>,\cf3 \strokec3 \
+\cf6 \strokec6 #   popasian <int>, popother <int>, percwhite <dbl>, percblack <dbl>,\cf3 \strokec3 \
+\cf6 \strokec6 #   percamerindan <dbl>, percasian <dbl>, percother <dbl>,\cf3 \strokec3 \
+\cf6 \strokec6 #   popadults <int>, perchsd <dbl>, percollege <dbl>, percprof <dbl>,\cf3 \strokec3 \
+\cf6 \strokec6 #   poppovertyknown <int>, percpovertyknown <dbl>,\cf3 \strokec3 \
+\cf6 \strokec6 #   percbelowpoverty <dbl>, percchildbelowpovert <dbl>,\cf3 \strokec3 \
+\cf6 \strokec6 #   percadultpoverty <dbl>, percelderlypoverty <dbl>, inmetro <int>, \'85\cf3 \strokec3 \
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf2 \strokec2 > msleep\
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf6 \strokec6 # A tibble: 83 \'d7 11\cf3 \strokec3 \
+   name         genus  vore  order   conservation sleep_total sleep_rem\
+   \cf6 \strokec6 <chr>\cf3 \strokec3         \cf6 \strokec6 <chr>\cf3 \strokec3   \cf6 \strokec6 <chr>\cf3 \strokec3  \cf6 \strokec6 <chr>\cf3 \strokec3    \cf6 \strokec6 <chr>\cf3 \strokec3               \cf6 \strokec6 <dbl>\cf3 \strokec3      \cf6 \strokec6 <dbl>\cf3 \strokec3 \
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf7 \strokec7  1\cf3 \strokec3  Cheetah      Acino\'85 carni Carniv\'85 lc                  12.1      \cf8 \strokec8 NA\cf3 \strokec3   \
+\cf7 \strokec7  2\cf3 \strokec3  Owl monkey   Aotus  omni  Primat\'85 \cf8 \strokec8 NA\cf3 \strokec3                   17         1.8\
+\cf7 \strokec7  3\cf3 \strokec3  Mountain be\'85 Aplod\'85 herbi Rodent\'85 nt                  14.4       2.4\
+\cf7 \strokec7  4\cf3 \strokec3  Greater sho\'85 Blari\'85 omni  Sorico\'85 lc                  14.9       2.3\
+\cf7 \strokec7  5\cf3 \strokec3  Cow          Bos    herbi Artiod\'85 domesticated         4         0.7\
+\cf7 \strokec7  6\cf3 \strokec3  Three-toed \'85 Brady\'85 herbi Pilosa  \cf8 \strokec8 NA\cf3 \strokec3                   14.4       2.2\
+\cf7 \strokec7  7\cf3 \strokec3  Northern fu\'85 Callo\'85 carni Carniv\'85 vu                   8.7       1.4\
+\cf7 \strokec7  8\cf3 \strokec3  Vesper mouse Calom\'85 \cf8 \strokec8 NA\cf3 \strokec3     Rodent\'85 \cf8 \strokec8 NA\cf3 \strokec3                    7        \cf8 \strokec8 NA\cf3 \strokec3   \
+\cf7 \strokec7  9\cf3 \strokec3  Dog          Canis  carni Carniv\'85 domesticated        10.1       2.9\
+\cf7 \strokec7 10\cf3 \strokec3  Roe deer     Capre\'85 herbi Artiod\'85 lc                   3        \cf8 \strokec8 NA\cf3 \strokec3   \
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf6 \strokec6 # \'85 with 73 more rows, and 4 more variables: sleep_cycle <dbl>,\cf3 \strokec3 \
+\cf6 \strokec6 #   awake <dbl>, brainwt <dbl>, bodywt <dbl>\cf3 \strokec3 \
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf2 \strokec2 > qplot (data = msleep, y = clarity, geom = "point", fill = cut\
++ \
++ \
++ >\
++ qplot (data = msleep, y = clarity, geom = "point", fill = cut)\
++ \
++ msleep\
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf5 \strokec5 Error: unexpected symbol in:\
+"\
+msleep"\
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf2 \strokec2 > qplot (data = msleep, y = clarity, geom = "point", fill = cut)\
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf5 \strokec5 Error in FUN(X[[i]], ...) : object 'clarity' not found\
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf2 \strokec2 > qplot (data = msleep, y = sales, geom = "point", fill = cut\
++ msleep\
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf5 \strokec5 Error: unexpected symbol in:\
+"qplot (data = msleep, y = sales, geom = "point", fill = cut\
+msleep"\
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf2 \strokec2 > qplot (data = msleep, y = sales, geom = "point", fill = cut)\
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf5 \strokec5 Error in FUN(X[[i]], ...) : object 'sales' not found\
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf2 \strokec2 > qplot (data = msleep, y = sleep_total, geom = "point", fill = cut)\
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf5 \strokec5 Don't know how to automatically pick scale for object of type function. Defaulting to continuous.\
+Error: Aesthetics must be valid data columns. Problematic aesthetic(s): fill = cut. \
+Did you mistype the name of a data column or forget to add after_stat()?\
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf9 \strokec9 Run `rlang::last_error()` to see where the error occurred.\cf5 \strokec5 \
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf2 \strokec2 > qplot (data = msleep, y = sleep_total, geom = "point")\
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf5 \strokec5 Error: geom_point requires the following missing aesthetics: x\
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf9 \strokec9 Run `rlang::last_error()` to see where the error occurred.\cf5 \strokec5 \
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf2 \strokec2 > qplot (data = msleep, y = sleep_total, geom = "bar", fill = cut)\
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf5 \strokec5 Don't know how to automatically pick scale for object of type function. Defaulting to continuous.\
+Error: Aesthetics must be valid data columns. Problematic aesthetic(s): fill = cut. \
+Did you mistype the name of a data column or forget to add after_stat()?\
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf9 \strokec9 Run `rlang::last_error()` to see where the error occurred.\cf5 \strokec5 \
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf2 \strokec2 > qplot (data = msleep, y = sleep_total, geom = "bar")\
+> qplot (data = msleep, y = sleep_total, geom = "density")\
+> qplot (data = msleep, y = sleep_total, geom = "line")\
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf5 \strokec5 Error: geom_line requires the following missing aesthetics: x\
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf9 \strokec9 Run `rlang::last_error()` to see where the error occurred.\cf5 \strokec5 \
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf2 \strokec2 > qplot (data = msleep, y = sleep_total, geom = "histogram")\
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf5 \strokec5 `stat_bin()` using `bins = 30`. Pick better value with `binwidth`.\
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf2 \strokec2 > png(file = "mammal_sleep_total.png")\
+> dev.off()\
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf3 \strokec3 RStudioGD \
+        2 \
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf2 \strokec2 > png(file = "mammal_sleep_total.png")\
+> dev.off()\
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf3 \strokec3 RStudioGD \
+        2 \cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trcbpat4 \trbrdrl\brdrnil \trbrdrr\brdrnil \trpadl120 \tapadb160 
+\clvertalt \clshdrawnil \clwWidth11040\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sl348\partightenfactor0
+\cf3 \cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trcbpat4 \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil \trpadl120 \tapadb160 
+\clvertalt \clshdrawnil \clwWidth11040\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+
+\itap2\trowd \taflags0 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth11040\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap2\pardeftab720\sl348\partightenfactor0
+\cf2 \strokec2 > \nestcell \lastrow\nestrow\cell \lastrow\row
+}
