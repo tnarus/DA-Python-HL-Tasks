@@ -1,0 +1,1 @@
+SELECT * FROM cats ORDER BY city;

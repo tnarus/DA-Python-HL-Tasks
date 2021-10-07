@@ -1,0 +1,1 @@
+SELECT * FROM meds WHERE freq between 3 and 4; 
